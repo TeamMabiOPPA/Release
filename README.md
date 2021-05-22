@@ -1,5 +1,5 @@
 # MabiOPPA
-MabiOPPA is a utility tool developed to allow you to enjoy mabinogi's crusader raid content more efficiently and conveniently. It does not affect to the Mabinogi client, since it is completely independent application. There are several useful modules in MabiOPPA.
+MabiOPPA is a utility tool developed to allow you to enjoy Mabinogi's crusader raid content more efficiently and conveniently. It does not affect to the Mabinogi client, since it is completely independent application. There are several useful modules in MabiOPPA.
 ## MabiOPPA official discord server
 https://discord.gg/BUt82pq4hs
 ## List of tools in the program
